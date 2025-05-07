@@ -1,0 +1,346 @@
+[
+
+  {
+    "name": "Choco Chip Truffle Cake (300gm)",
+    "title": "Choco Chip Truffle Cake (300gm)",
+    "price": 445,
+    "rating": 4.6,
+    "reviews": "(868)",
+    "image": "/CakeImage/p-choco-chip-truffle-cake-300-gm--265855-m.jpg",
+    "logo": "/CakeImage/rupee1.jpg",
+    "star": "/CakeImage/star.jpg",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Delicious Choco Creamy Cake (600gm) ",
+    "title": "Delicious Choco Creamy Cake (600gm)",
+    "price": 745,
+    "rating": 4.5,
+    "reviews":"(199)" ,
+    "logo":"/CakeImage/rupee1.jpg",
+    "star": "/CakeImage/star.jpg",
+    "image": "/CakeImage/aromatic.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Fresh Fruit Almond Cake (Half kg) ",
+    "title": "Fresh Fruit Almond Cake (Half kg) ",
+    "price": 745,
+    "rating": 4.5,
+    "reviews": "(596)",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/fresh.webp ",
+    "star": "/CakeImage/star.jpg",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Luscious Ganache Nutella Cake (Half Kg)",
+    "title": "Luscious Ganache Nutella Cake (Half Kg)",
+    "price": 745,
+    "rating": 4.7,
+    "reviews": "(81)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/lusicious.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Special ButterScotch Cake (Half Kg)",
+    "title": "Special ButterScotch Cake (Half Kg)",
+    "price": 599,
+    "rating": 4.6,
+    "reviews": "(693)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/butterscotch1.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Floral Fantasy Delight Cake (Half Kg)",
+    "title": "Floral Fantasy Delight Cake (Half Kg)",
+    "price": 745,
+    "rating": 4.6,
+    "reviews": "(882)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/fantasy cake.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Heavenly Red Velvet Cake (600gm) ",
+    "title": "Heavenly Red Velvet Cake (600gm) ",
+    "price": 695,
+    "rating": 4.6,
+    "reviews": "(903)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/velvet.jpg",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Mothers Day Special Cake (1Kg)",
+    "title": "Mothers Day Special Cake (1Kg)",
+    "price": 695,
+    "rating": 4.5,
+    "reviews": "(892)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/mothers day cake.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Delicious Chocolate Cake with Premium Frosting(Half Kg)",
+    "title": "Delicious Chocolate Cake with Premium Frosting(Half Kg)",
+    "price": "695",
+    "original_price": 845,
+    "discount": "18%",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "rating": 4.5,
+    "reviews": "(133)",
+    "image": "/CakeImage/premium.webp",
+    "button": "SameDay Delivery"
+    
+  },
+  {
+    "name": "Almond Drizzle Truffle Cake(200gm)",
+    "title": "Almond Drizzle Truffle Cake(200gm)",
+    "price": "(395)",
+    "original_price": 845,
+    "discount": "18%",
+    "rating": 4.6,
+    "reviews": "(494)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/almond.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Chocolate Oreo Cake (Half Kg)",
+    "title": "Chocolate Oreo Cake (Half Kg)",
+    "price": 745,
+    "rating": 4.5,
+    "reviews": "(92)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/oreo cake.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Floral Treat Pineapple Cake (200 Gm)",
+    "title": "Floral Treat Pineapple Cake (200 Gm)",
+    "price": 395,
+    "rating": 4.5,
+    "reviews": "(454)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/pineapple1.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Chocolate Cake with Chocolate Chips & Cherry Toppings (Half Kg)",
+    "title": "Chocolate Cake with Chocolate Chips & Cherry Toppings (Half Kg)",
+    "price": 675,
+    "rating": 4.6,
+    "reviews": "(124)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/p-chocolate-cake-with-chocolate-chips-cherry-toppings-half-kg--4778-m.webp",
+    "button": "30-min Delivery"
+  } ,
+  
+  {
+    "name": "Belgian Dark Chocolate Ganache Cake (Half kg)",
+    "title": "Belgian Dark Chocolate Ganache Cake (Half kg)",
+    "price": 795,
+    "rating": 4.5,
+    "reviews": "(120)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/belgian.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Tiramisu Coffee Cake (Half kg)",
+    "title": "Tiramisu Coffee Cake (Half kg)",
+    "price": 745,
+    "rating": 4.5,
+    "reviews": "(88)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/delish.webp",
+    "button": "SameDay Delivery"
+  },
+{
+    "name": "Delish Motichoor Ladoo Cake (Half Kg)",
+    "title": "Delish Motichoor Ladoo Cake (Half Kg)",
+    "price": 895,
+    "rating": 4.6,
+    "reviews": "(233)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": " /CakeImage/p-tiramisu.webp ",
+    "button": "SameDay Delivery"
+  },
+  
+  {
+    "name": "Exotic Fruit Fusion Mini Cake (300 GM)",
+    "title": "Exotic Fruit Fusion Mini Cake (300 GM)",
+    "price": 495,
+    "rating": 4.4,
+    "reviews": "(341)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/exotic.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Pink Ombre Mini Cake",
+    "title": "Pink Ombre Mini Cake",
+    "price": 445,
+    "rating": 4.4,
+    "reviews": "(358)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/pink.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Special Floral Cake (Half Kg)",
+    "title": "Special Floral Cake (Half Kg)",
+    "price": 745,
+    "rating": 4.5,
+    "reviews": "(258)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/floral cake.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Elegant Blue Blossom Cake For Her (Half kg)",
+    "title": "Elegant Blue Blossom Cake For Her (Half kg)",
+    "price": 595,
+    "rating": 4.3,
+    "reviews": "(26)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/blossom.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Frosted Fantasy Mini Cake",
+    "title": "Frosted Fantasy Mini Cake",
+    "price": 895,
+    "rating": 4.5,
+    "reviews": "(290)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/rasamalai.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Frosted Fantasy Mini Cake",
+    "title": "Frosted Fantasy Mini Cake",
+    "price": 445,
+    "rating": 4.5,
+    "reviews": "(321)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/frosted.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Almond Amaze Dry Cake (400 Gms)",
+    "title": "Almond Amaze Dry Cake (400 Gms)",
+    "price": 595,
+    "rating": 4.5,
+    "reviews": "(169)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/almond amaze.webp",
+    "button": "30-Min Delivery" 
+  },
+  {
+    "name": "Almond Drizzle Truffle Cake(200gm)",
+    "title": "Almond Drizzle Truffle Cake(200gm)",
+    "price": 645,
+    "rating": 4.5,
+    "reviews": "(78)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/almond.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Frutilicious Cake (Half Kg)",
+    "title": "Frutilicious Cake (Half Kg)",
+    "price": 895,
+    "rating": 4.7,
+    "reviews": "(30)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/frutilicious.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Luscious Ganache Nutella Cake (Half Kg)",
+    "title": "Luscious Ganache Nutella Cake (Half Kg)",
+    "price": 795,
+    "rating": 4.7,
+    "reviews": "(19)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/kitkat.webp",
+    "button": "SameDay Delivery"
+  },
+ 
+  {
+    "name": "Aromatic Coffee Cake (Half Kg)",
+    "title": "Aromatic Coffee Cake (Half Kg)",
+    "price": 695,
+    "rating": 4.5,
+    "reviews": "(38)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": ".//CakeImage/aromatic.webp",
+    "button": "SameDay Delivery"
+  },
+  {
+    "name": "Blush Rose Mini Cake",
+    "title": "Blush Rose Mini Cake",
+    "price": 445,
+    "rating": 4.4,
+    "reviews": "(68)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/p-blush-rose-mini-cake-223424-m.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Pearls and Petals Mini Cake (300 GM)",
+    "title": "Pearls and Petals Mini Cake (300 GM)",
+    "price": 445,
+    "rating": 4.4,
+    "reviews": "(273)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/p-pearls-and-petals-mini-cake-300-gm--240673-m.webp",
+    "button": "30-Min Delivery"
+  },
+  {
+    "name": "Elegant Lady Cake For Her (Half kg)",
+    "title": "Elegant Lady Cake For Her (Half kg) ",
+    "price": 725,
+    "rating": 4.8,
+    "reviews": "(3)",
+    "star": "/CakeImage/star.jpg",
+    "logo":"/CakeImage/rupee1.jpg",
+    "image": "/CakeImage/p-elegant-lady-cake-for-her-half-kg--403272-m.webp",
+    "button": "SameDay Delivery"
+  }
+
+
+  
+
+
+]
